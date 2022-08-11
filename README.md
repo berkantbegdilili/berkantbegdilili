@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Berkant BEGDILILI</h1>
 <h3 align="left">Backend Developer</h3>
 
-- 💬 Ask me about **Node.js, Microservices, Serverless Application, AWS**
+- 💬 Ask me about **Node.js, Microservices, Serverless Application, AWS, GCP**
 
 - 📫 How to reach me **info[at]berkantbegdilili[dot]com**
 
